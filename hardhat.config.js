@@ -20,7 +20,7 @@ require("dotenv").config();
 module.exports = {
   solidity: "0.8.4",
   paths: {
-    artifacs: "./src/artifacts",
+    artifacts: "./src/artifacts",
   },
   networks: {
     hardhat: {
